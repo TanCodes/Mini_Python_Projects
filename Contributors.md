@@ -1,5 +1,3 @@
-
-
 Name: [Anubhav Cp](https://github.com/anubhav-cp)
 Place: Delhi, India
 
@@ -18,7 +16,7 @@ Place: Nepal
 Name: [Mageshkrishna R](https://github.com/silicolicious)
 Place: Pune, India
 
-Name:  [Sanskriti Jain](https://github.com/sans2001)
+Name: [Sanskriti Jain](https://github.com/sans2001)
 Place: Delhi, India
 
 Name: [Prashant Singh](https://github.com/EitoZX/)
@@ -29,7 +27,6 @@ Place: Punjab, India
 
 Name: [Chiranjeev Vishnoi](https://github.com/Chiranjeev-droid)
 Place: Rajasthan, India
-
 
 Name: [Mageshkrishna R](https://github.com/silicolicious)
 Place: Pune, India
@@ -142,4 +139,5 @@ Place: Italy
 Name: [Nitin Kumar](https://github.com/nitinkumar30)
 Place: Jamshedpur, India
 
-
+Name : [Tanmay Barvi](https://github.com/TanCodes)
+Place: Navi Mumbai, India
